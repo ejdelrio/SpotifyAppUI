@@ -1,0 +1,17 @@
+{
+  "name": "spotify-application-ui",
+  "version": "0.0.0",
+  "description": "SpotifyApplicationUI",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "Babel": "0.0.1",
+    "babel-core": "^6.26.3",
+    "express": "^4.16.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.29.6"
+  }
+}
